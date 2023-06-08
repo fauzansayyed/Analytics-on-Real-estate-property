@@ -1,15 +1,15 @@
 # Analytics-on-Real-estate-property
 Prediction on price of property in real estate sector with respective different parameter.
 
-**#Data Descriptions**
+# **Data Descriptions**
 
-**#Python**
-1.Pandas
-2.Numpy
-3.Sklearn
+# **Python**
+1. Pandas
+2. Numpy
+3. Sklearn
 
-**Model Building**
+# **Model Building**
 Linear Regression
 
-**#Data Source**
+# **Data Source**
 
